@@ -5,11 +5,27 @@
 }
 
 body {
-  background: red;
+  background: rgb(33, 15, 49);
 }
 
 img {
   display: block;
   width: 100%;
   height: auto;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+h2 {
+  color: white;
 }
